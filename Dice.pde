@@ -17,7 +17,7 @@ void setup()
         dog.roll();
     }
   }
-  dog.total();
+  dog.tt();
   }
   void mousePressed()
   { 
@@ -87,7 +87,7 @@ void setup()
         rect(dieX,dieY,50,50,20);
         fill(0);
       }
-      void total()
+      void tt()
       {
         fill(255);
         rect(420,560,180,50);
